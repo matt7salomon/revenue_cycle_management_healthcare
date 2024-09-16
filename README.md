@@ -77,11 +77,11 @@ This analysis includes several plots and statistical summaries to better underst
 ### **Installation:**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/matt7salomon/Breadcrumbsrevenue_cycle_management_healthcare.git
+   git clone https://github.com/matt7salomon/revenue_cycle_management_healthcare.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Breadcrumbsrevenue_cycle_management_healthcare
+   cd revenue_cycle_management_healthcare
    ```
 3. Install the required dependencies:
    ```bash
